@@ -1,0 +1,216 @@
+
+/* Colour Scheme One */
+
+	/* Pink: #ffccbf */
+	/* Orange: #de8466 */
+	/* Dark Purple: #5f4d69 */
+	/* Violet: #a182b3 */
+	/* Light Blue: #83ccde */
+	/* Light Green: #bceb8a */
+
+/* Colour Scheme Two */
+
+	/* Orange: #ff7559 */
+	/* Pink: #c74a65 */
+	/* Dark Purple: #773b7d */
+	/* Light Green: #5eeb6e */
+	/* Medium Green: #07b38b */	
+
+
+
+/* Font Styles */
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 300;
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 400;
+}
+
+
+
+/* Header Profile Image */
+
+.profileimage {
+  margin-top: -10px;
+  position: relative;
+  top: 0;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+
+.profileimage h1 {
+  font-size: 90px;
+	/*font-size: 110px;*/
+	line-height: 1.2em;
+  /*color: #fff;*/
+	color: #70d8e6;
+	font-weight: 300;
+  padding-top: 70px;
+	/*padding-top: 90px;*/
+	padding-left: 35px;
+}
+
+.profileimage h2 {
+	color: #fff;
+	padding-left: 45px;
+}
+
+.lastname h1 {
+  margin-top: -100px;
+  /*margin-top: -140px;*/
+}
+
+
+
+/* Three Words Section */
+
+.three-words {
+	text-align: center;
+	margin: 200px 50px;
+}
+
+.three-words h1 {
+	color: #07b38b;
+}
+
+.three-words .span4 {
+	padding: 5px 10px;
+}
+
+/* My Story */
+
+.my-story {
+	text-align: center;
+	color: #fff;
+	width: 100%;
+	background-color: #ff7559;
+}
+
+.my-story h1 {
+	padding-top: 80px;
+}
+
+.my-story p {
+	line-height: 1.75em;
+	font-size: 1.2em;
+}
+
+.my-story .span12 {
+  padding-bottom: 100px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+
+/* Social Media Profiles */
+
+.social-media {
+	text-align: center;
+	margin: 200px 50px;
+}
+
+.social-media .span4 {
+	padding: 5px 10px;
+}
+
+.social-media h2{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+}
+
+.social-media a:link {
+  color: #07b38b;
+}
+
+.social-media a:visited {
+  color: #07b38b;
+}
+
+.social-media a:hover {
+  color: #07b38b;
+  text-decoration: none;
+}
+
+.social-media a:active {
+  color: #07b38b;
+}
+
+
+/* Carousel */
+
+.carousel-inner {
+  background-color: #70d8e6;
+  color: #fff;
+}
+
+.testimonials {
+      width:70%;
+      height:350px;
+      padding-top: 150px;
+      overflow:hidden;
+      display:block;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+.testimonials h2 {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.5em;
+}
+
+
+
+/* Contact Section */
+
+.contact {
+  text-align: center;
+  margin: 100px 50px;
+}
+
+.contact img {
+  min-height: 300px;
+  width: 370px;
+}
+
+.contact .span8 {
+  margin-top: 90px;
+}
+
+
+/* Footer Section */
+
+.footer {
+  clear: both;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer a:link {
+  color: #fff;
+}
+
+.footer a:visited {
+  color: #fff;
+}
+
+.footer a:hover {
+  color: #70d8e6;
+  text-decoration: none;
+}
+
+.footer a:active {
+  color: #fff;
+}
+
+
+
