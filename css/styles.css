@@ -14,7 +14,7 @@
 	/* Pink: #c74a65 */
 	/* Dark Purple: #773b7d */
 	/* Light Green: #5eeb6e */
-	/* Medium Green: #07b38b */	
+	/* Medium Green: #07b38b */
 
 
 
@@ -121,23 +121,27 @@ p {
 .social-media h2{
   font-family: 'Quicksand', sans-serif;
   font-weight: 300;
+  color: #07b38b;
 }
 
-.social-media a:link {
-  color: #07b38b;
+.social-media i {
+  color: #545454;
 }
 
 .social-media a:visited {
-  color: #07b38b;
+  /*color: #07b38b;*/
 }
 
 .social-media a:hover {
-  color: #07b38b;
   text-decoration: none;
 }
 
 .social-media a:active {
-  color: #07b38b;
+  /*color: #07b38b;*/
+}
+
+.social-media .icon a:visited {
+  color: #000;
 }
 
 
